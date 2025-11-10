@@ -22,3 +22,20 @@ A simple intelligent chatbot built using HTML, CSS, JavaScript, and PHP that int
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/<your-username>/chatbot-application.git
+
+2. Move the folder to your web server (e.g., htdocs for XAMPP).
+   
+3. Import the chatbot.sql file into your MySQL database.
+ 
+4. Update your config.php file with database connection details.
+   
+5. Run the project on your browser:
+      http://localhost/chatbot-application
+
+🧩 **Future Improvements**
+
+- Add natural language processing (NLP)
+
+- Integrate AI API (Dialogflow / OpenAI)
+
+- Support for multiple languages
